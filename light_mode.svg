@@ -19,20 +19,20 @@ text, tspan {white-space: pre;}
 <text x="15" y="30" fill="#24292f" class="ascii">
 <tspan x="15" y="70">                                    </tspan>
 <tspan x="15" y="90">            .:o:*:::*.              </tspan>
-<tspan x="15" y="110">           8#@@@@@####8&*           </tspan>
+<tspan x="15" y="110">           8#@@@@@####8S*           </tspan>
 <tspan x="15" y="130">           #@#8#@@@@@@@@@*          </tspan>
 <tspan x="15" y="150">           o*  .:ooo8@@@@.          </tspan>
-<tspan x="15" y="170">           ..:&8o*o&8&&8.           </tspan>
-<tspan x="15" y="190">             .o&:.8#8:*.            </tspan>
+<tspan x="15" y="170">           ..:S8o*oS8SS8.           </tspan>
+<tspan x="15" y="190">             .oS:.8#8:*.            </tspan>
 <tspan x="15" y="210">                ..:*. .             </tspan>
-<tspan x="15" y="230">              .*o&&*..              </tspan>
-<tspan x="15" y="250">             ..*:&8&:o*             </tspan>
-<tspan x="15" y="270">           *:.*o&8##o:@#8&:.        </tspan>
-<tspan x="15" y="290">      .:o8#@#.*.:&&: #@@@@@@@#8&:   </tspan>
-<tspan x="15" y="310">    &@@@@@@@8 oo*.  o@@@@@@@@@@@@#  </tspan>
+<tspan x="15" y="230">              .*oSS*..              </tspan>
+<tspan x="15" y="250">             ..*:S8S:o*             </tspan>
+<tspan x="15" y="270">           *:.*oS8##o:@#8S:.        </tspan>
+<tspan x="15" y="290">      .:o8#@#.*.:SS: #@@@@@@@#8S:   </tspan>
+<tspan x="15" y="310">    S@@@@@@@8 oo*.  o@@@@@@@@@@@@#  </tspan>
 <tspan x="15" y="330">   :@@@@@@@@@.  *   @@@@@@@@@@@@@@* </tspan>
-<tspan x="15" y="350">   #@@@@@@@@@      &@@@@@@@@@@@@@@& </tspan>
-<tspan x="15" y="370">  &@@@@@@@@@#      @@@@@@@@@@@@@@@8 </tspan>
+<tspan x="15" y="350">   #@@@@@@@@@      S@@@@@@@@@@@@@@S </tspan>
+<tspan x="15" y="370">  S@@@@@@@@@#      @@@@@@@@@@@@@@@8 </tspan>
 <tspan x="15" y="390"> *@@@@@@@@@@#     o@@@@@@@@@@@@@@@@*</tspan>
 <tspan x="15" y="410">*@@@@@@@@@@@8     #@@@@@@@@@@@@@@@@:</tspan>
 </text>
